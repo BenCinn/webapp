@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "bencinn-website": "apps/bencinn-website",
+    "bencinn-website-e2e": "apps/bencinn-website-e2e"
+  }
+}
