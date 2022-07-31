@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "bencinn-website": "apps/bencinn-website",
-    "bencinn-website-e2e": "apps/bencinn-website-e2e"
+    "bencinn-website-e2e": "apps/bencinn-website-e2e",
+    "ui": "libs/ui"
   }
 }

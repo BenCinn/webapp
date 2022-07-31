@@ -1,4 +1,5 @@
 import styles from './index.module.css';
+import { NavigationBar } from '@webapp/ui'
 
 export function Index() {
   /*
@@ -16,6 +17,7 @@ export function Index() {
               Welcome bencinn-website 👋
             </h1>
           </div>
+          <NavigationBar />
 
           <div id="hero" className="rounded">
             <div className="text-container">
